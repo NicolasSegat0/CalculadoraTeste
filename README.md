@@ -21,17 +21,4 @@ Você pode usar a calculadora fornecida na classe `Calculadora`. Ela permite rea
 - Multiplicação
 - Divisão
 
-Exemplo de uso:
 
-```java
-double resultadoSoma = Calculadora.calcular("soma", 5, 3);
-System.out.println("Soma: " + resultadoSoma);
-
-int resultadoSubtracao = Calculadora.calcular("subtracao", 10, 4);
-System.out.println("Subtração: " + resultadoSubtracao);
-
-double resultadoDivisao = Calculadora.calcular("divisao", 12.0, 2.0);
-System.out.println("Divisão: " + resultadoDivisao);
-
-int resultadoMultiplicacao = Calculadora.calcular("multiplicacao", 3, 7);
-System.out.println("Multiplicação: " + resultadoMultiplicacao);
