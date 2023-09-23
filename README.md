@@ -1,4 +1,4 @@
-# CalculadoraTeste
+# CalculadoraTeste (Junit).
 
 ## Descrição.
 Uma calculadora simples com a aplicação da biblioteca Junit para a aula de Qualidade e Teste de Software.
