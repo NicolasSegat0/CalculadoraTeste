@@ -21,4 +21,8 @@ Você pode usar a calculadora fornecida na classe `Calculadora`. Ela permite rea
 - Multiplicação
 - Divisão
 
+## Javadoc
+
+Agora, o projeto apresenta um javadoc, cujo o objetivo é facilitar na compreensão caso uma outra pessoa queira utilizar ou modificar o código.
+
 
